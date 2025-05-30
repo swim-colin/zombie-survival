@@ -1,0 +1,1 @@
+image_xscale = global.tank_x_scale
