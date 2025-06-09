@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rocket",
+  "%Name":"obj_grave",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_regular_zombie","path":"objects/obj_regular_zombie/obj_regular_zombie.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_rocket",
+  "name":"obj_grave",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rocket",
-    "path":"sprites/spr_rocket/spr_rocket.yy",
+    "name":"spr_gravstone",
+    "path":"sprites/spr_gravstone/spr_gravstone.yy",
   },
   "spriteMaskId":null,
   "visible":true,
